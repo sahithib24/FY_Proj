@@ -119,6 +119,3 @@
 * A **demo** showing how a healthcare/traffic use case works.
 
 
----
-
-Would you like me to now **expand this into a day-by-day Gantt chart / timeline diagram** (visual) so it looks very professional to show your professor?  in this week 1 u have asked us to study basics of game thoery and nash equilibrium give all the info required to read and learn for this project
